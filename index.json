@@ -1,2 +1,20 @@
 [
+    {
+        "id": "ffc04fdf-ef57-43d7-a8a5-5618bf12d32e",
+        "author": "UnreadableCode",
+        "name": "FS-Curator",
+        "brief": "Add FS-Curator querying capabilities",
+        "url": "github://unreadablewxy/fs-viewer-curator-extension",
+        "license": "GPL-2.0",
+        "version": [0, 0, 0]
+    },
+    {
+        "id": "3872cce3-9a95-45f0-8553-9412631e96db",
+        "author": "UnreadableCode",
+        "name": "Image Comparer",
+        "brief": "Add side by side image comparison capabilities",
+        "url": "github://unreadablewxy/fs-viewer-comparer",
+        "license": "GPL-2.0",
+        "version": [0, 0, 0]
+    }
 ]
