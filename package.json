@@ -1,0 +1,22 @@
+{
+  "name": "fs-viewer-extensions",
+  "version": "0.0.0",
+  "description": "Extensions registry for fs-viewer",
+  "main": "index.json",
+  "devDependencies": {
+    "jsonschema": "^1.4.0"
+  },
+  "scripts": {
+    "test": "node ./validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unreadable-code/fs-viewer-extensions.git"
+  },
+  "author": "UnreadableCode",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/unreadable-code/fs-viewer-extensions/issues"
+  },
+  "homepage": "https://github.com/unreadable-code/fs-viewer-extensions#readme"
+}
